@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cs624"
+assignment: "hos07"
+secret: "piw6c2z1"
+owner:
+  username: "DronamrajuGiridhar"
+  id: 204620380
+  accepted_at: "2026-11-23T01:37:16Z"
+source:
+  owner: "cityuseattle"
+  owner_id: 53064240
+  repo: "CS624-HOS07-Fall"
+  branch: "main"
